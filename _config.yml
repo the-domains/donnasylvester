@@ -1,0 +1,28 @@
+name: DonnaSylvester
+favicon: null
+layout_spectrum: 0.2401619558222592
+typography_spectrum: 0.13385337125509977
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.3833377044647932
+  lightness: 0.5001480102073401
+  saturation: 0.5815036618150771
+  rhythmicContrast: 0.531975369900465
+purpose: []
